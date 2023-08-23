@@ -1,0 +1,4 @@
+static void showdata()
+{
+console.writeline("hello")
+}
